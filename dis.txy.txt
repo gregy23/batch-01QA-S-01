@@ -1,0 +1,40 @@
+Command-line  interface
+-CLI
+-allow us to interact with computer program by typing  command rather using graphical user interface (GUI)
+Common Line Interface Commands
+-change
+
+
+
+
+
+
+
+
+
+make directory-it allows us to create a new directory
+-mkdir<directory/folder name>
+-example
+mkdir Documents
+
+list
+-it allow us to show display all the files and folder within the given path
+-ls(dir)
+-example
+touch discussion.txt
+remove a file
+-it allow us to remove a chosen file
+rm<filename.ext>
+-example
+rm sample.txt
+dispaly the content of a file 
+-cat <Filename.ext>
+example
+cat discussion.txt
+search a file 
+-find.-name"filename.txt"
+-example
+find.-name "discussion.txt
+
+
+Git 
