@@ -1,0 +1,39 @@
+iso27001
+ 
+Command-line Interface
+- CLI
+- allows us to interact with computer programs by typings
+commands rather using graphical user interface (GUI)
+ 
+CLI interface command
+ 
+1. cd - Change Directory(move or change from the existing directory
+or folder to the desired directory)
+ex. cd <directory/folder name>
+2. mkdir - Create Folder( create a new directory/folder)
+ex. mkdir <directory/folder name>fin
+3. ls - List (show/display all the files and folders within the given path)
+ex. ls
+4. touch - Touch(create a new fil)
+ex. touch <filename.extension>
+5. rm - Remove (remove a chosen file)
+ex. rm <filename.extension>
+6. cat - Display(display the content of a file)
+ex. cat <filename.ext>
+7. find - Find(search a file)
+ex. file . -name "filename.txt"
+ 
+Git
+- distributed version control system which means that every user has 
+a full copy of the repo on their local machine
+ 
+vcs
+Git commands
+1. git status - check what to see has changed
+2. git init - initialize git in our working environment
+3. git add . - add changes to staging
+4. git commit -m"<message>" - commit changes to local reposiroty
+5. git log - see the logs
+6. git config --global user.email "<email>"
+7. git config --global user.name "<username>"
+8. git config --list
