@@ -30,7 +30,7 @@ a full copy of the repo on their local machine
 vcs
 Git commands
 1. git status - check what to see has changed
-2. git init - initialize git in our working environment
+2. git init - initialize git in our working environmentx`
 3. git add . - add changes to staging
 4. git commit -m"<message>" - commit changes to local reposiroty
 5. git log - see the logs
